@@ -8,7 +8,7 @@ A Form module to handle Form Request and Errors, it can be used with VueJS or An
 ### Installation
 
 ```sh
-$ npm install form --save-dev
+$ npm install yogeshkoli-form
 ```
 
 License
