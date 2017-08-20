@@ -1,0 +1,23 @@
+{
+  "name": "form",
+  "version": "1.0.0",
+  "description": "A form module to handle Form Request and Errors",
+  "main": "Form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogeshkoli/form.git"
+  },
+  "keywords": [
+    "Form",
+    "Errors"
+  ],
+  "author": "Yogesh Koli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogeshkoli/form/issues"
+  },
+  "homepage": "https://github.com/yogeshkoli/form#readme"
+}
