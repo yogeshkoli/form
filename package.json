@@ -2,7 +2,7 @@
   "name": "form",
   "version": "1.0.0",
   "description": "A form module to handle Form Request and Errors",
-  "main": "Form.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
