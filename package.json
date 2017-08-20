@@ -14,10 +14,13 @@
     "Form",
     "Errors"
   ],
-  "author": "Yogesh Koli",
+  "author": "Yogesh Koli <info@yogeshkoli.com> (http://www.yogeshkoli.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yogeshkoli/form/issues"
   },
-  "homepage": "https://github.com/yogeshkoli/form#readme"
+  "homepage": "https://github.com/yogeshkoli/form#readme",
+  "devDependencies": {
+    "axios": "^0.16.2"
+  }
 }

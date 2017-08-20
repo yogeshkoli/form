@@ -14,4 +14,4 @@ $ npm install form --save-dev
 License
 ----
 
-[ISC](https://github.com/yogeshkoli/form#license)
+[ISC](https://github.com/yogeshkoli/form/blob/master/LICENSE)
