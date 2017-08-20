@@ -1,6 +1,6 @@
 {
   "name": "yogeshkoli-form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A form module to handle Form Request and Errors",
   "main": "Form.js",
   "scripts": {
