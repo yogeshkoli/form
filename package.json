@@ -2,7 +2,7 @@
   "name": "yogeshkoli-form",
   "version": "1.0.1",
   "description": "A form module to handle Form Request and Errors",
-  "main": "index.js",
+  "main": "Form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
